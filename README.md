@@ -1,2 +1,2 @@
 # odin-recipes
-Recipe site from Odin
+Recipe site project from the Odin Project course @ theodinproject.com
